@@ -1,0 +1,86 @@
+.main
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: auto;
+    margin: auto;
+    padding-top: 5rem;
+}
+
+
+.content1
+{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+
+.image img
+{
+   
+   height: 400px;
+   width: 400px;
+    margin: auto;
+    padding-right: 2.5rem;
+    
+}
+.Welcome 
+{
+    font-size: 60PX;
+    margin: auto;
+    background: #959595;
+    background: linear-gradient(to right, #bc1313 0%, #2559ca 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Content2
+{  
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: auto;
+    margin-top: 2rem;
+    padding-top: 5rem 2rem;
+    
+    
+}
+.Mission{
+    
+    padding-top: 4rem ;
+    margin-left: 2rem;
+     text-align: center;
+    flex:1;
+    
+}
+.Vision{
+    
+   
+    margin-left: 4rem;
+    padding-top: 4rem ;
+    text-align: center;
+    flex:1; 
+    margin-right: 2rem;
+
+}
+.Mission p
+{
+    font-size: 40px;
+ padding-bottom:20px;
+ 
+ 
+ }
+ 
+ .Vision p
+ {
+    font-size: 40px;
+    padding-bottom:20px;
+
+    
+ 
+ }

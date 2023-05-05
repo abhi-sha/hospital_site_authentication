@@ -1,0 +1,72 @@
+.Core
+{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 6rem;
+    text-align: center;
+     flex-wrap: wrap;
+    justify-content: center;
+  
+    width: 80%;
+    margin-bottom: 6rem;
+
+}
+
+.Teamwork
+{
+padding: 25px;
+width: 33%;
+box-sizing: border-box;
+margin: auto;
+
+}
+p
+{
+font-size: 1.5rem;
+padding-bottom: 20px;
+
+
+}
+.Innovation
+{
+
+    padding: 25px;
+    width: 33%;
+    margin: auto;
+    box-sizing: border-box;
+
+}
+.Quality
+{ margin: auto;
+
+    padding: 25px;
+    width: 33%;
+   
+    box-sizing: border-box;
+}
+
+.Service
+{
+    margin: auto;
+    padding: 25px;
+    width: 33%;
+    box-sizing: border-box;
+ 
+}
+.Integrity
+{ margin: auto;
+  
+    padding: 25px;
+    width: 33%;
+   
+    box-sizing: border-box;
+}
+.Compassion
+{
+    margin: auto;
+    padding: 25px;
+    width: 33%;
+    box-sizing: border-box;
+ 
+}
